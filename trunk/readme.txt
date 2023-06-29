@@ -2,9 +2,9 @@
 Contributors: carlos.ramirez
 Tags: performance, plugin, execution, timer
 Requires at least: 5.0
-Tested up to: 5.8
+Tested up to: 6.2.2
 Requires PHP: 7.0
-Stable tag: trunk
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,12 @@ This plugin is for debugging purposes only. It should be installed, activated, u
 1. Admin menu option to view the log data.
 
 == Changelog ==
+
+= 1.2 =
+* Add: Summary of plugins+other sections load times.
+
+= 1.1 =
+* Add: Other sections load time.
 
 = 1.0 =
 * Initial release.

@@ -17,7 +17,22 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a Ch
 ### Breaks
 
 
-## 0.1.1 (2023-06-23)
+## 0.1.2 (2023-06-29)
+---
+
+### New
+Summary of plugins+other sections load times.
+
+
+## 0.1.1 (2023-06-29)
+---
+
+### New
+Other sections load time.
+Makefile created to prepare the plugin's distribution zip file.
+
+
+## 0.1.0 (2023-06-23)
 ---
 
 ### New
